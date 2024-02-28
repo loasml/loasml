@@ -1,4 +1,8 @@
-### Hi there 👋
+### hey
+my name is loa soler, student at UW Bothell as a CS premajor
+currently studying java, javascript and other intro to programming lessons
+want to get into cybersecurity
+
 
 <!--
 **loasml/loasml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
