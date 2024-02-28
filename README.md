@@ -2,6 +2,7 @@
 my name is loa soler, student at UW Bothell as a CS premajor
 
 currently studying java, javascript and other intro to programming lessons
+
 want to get into cybersecurity
 
 
