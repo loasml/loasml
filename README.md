@@ -1,10 +1,7 @@
-### hey
-my name is loa soler, student at UW Bothell as a CS premajor
+### yo
+datavis/cyber student
 
 currently going through tryhackme and running ctfs
-
-want to get into cybersecurity
-
 
 <!--
 **loasml/loasml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
